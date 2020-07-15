@@ -1,0 +1,4 @@
+jobs:
+  main:
+    template: test
+    requires: [~pr, ~commit]
