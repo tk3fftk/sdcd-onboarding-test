@@ -1,4 +1,4 @@
 jobs:
-  main:
-    template: test
+  mettyanagakutekatsuhyperverysuperfxxkinggreatultrasuperhighestlongjobname:
+    image: node:12
     requires: [~pr, ~commit]
