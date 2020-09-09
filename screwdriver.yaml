@@ -1,0 +1,4 @@
+jobs:
+  mettyanagakutekatsuhyperverysuperfxxkinggreatultrasuperhighestlongjobname:
+    image: node:12
+    requires: [~pr, ~commit]
